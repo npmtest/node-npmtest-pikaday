@@ -1,4 +1,7 @@
-# test coverage for  [pikaday (v1.5.1)](http://dbushell.github.io/Pikaday/)  [![npm package](https://img.shields.io/npm/v/npmtest-pikaday.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-pikaday) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-pikaday.svg)](https://travis-ci.org/npmtest/node-npmtest-pikaday)
+# npmtest-pikaday
+
+#### basic test coverage for  [pikaday (v1.5.1)](http://dbushell.github.io/Pikaday/)  [![npm package](https://img.shields.io/npm/v/npmtest-pikaday.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-pikaday) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-pikaday.svg)](https://travis-ci.org/npmtest/node-npmtest-pikaday)
+
 #### A refreshing JavaScript Datepicker — lightweight, no dependencies, modular CSS
 
 [![NPM](https://nodei.co/npm/pikaday.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/pikaday)
